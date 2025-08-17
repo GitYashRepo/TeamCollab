@@ -2,7 +2,7 @@ import { Route, Routes, useLocation, Navigate } from 'react-router-dom';
 import { useEffect } from 'react';
 import CssBaseline from '@mui/material/CssBaseline';
 import Container from '@mui/material/Container';
-import NavBar from './Components/NavBar.jsx';
+import NavBar from './Components/Navbar.jsx';
 import LoginPage from './Pages/Login/Login.jsx';
 import SignupPage from './Pages/Signup/Signup.jsx';
 import DashboardPage from './Pages/Dashboard/Dashboard.jsx';
