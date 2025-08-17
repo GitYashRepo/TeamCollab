@@ -1,3 +1,6 @@
+# Team Collab App:-
+<img src="teamcollab.png" alt="Alt text" width="400"/>
+
 # Futuristic Task Management App Hosted Link:-
 - Frontend link :- https://team-collab-sable.vercel.app
 - Video Link :- https://drive.google.com/file/d/1Aaw0WnmLb-5K1MCv2tNWzgBokkGHcSQO/view?usp=sharing
@@ -36,26 +39,26 @@ Before running this application, make sure you have the following installed:
 ## Installation
 
 1. **Clone the repository**
-   \`\`\`bash
+   ```bash
    git clone <repository-url>
    cd futuristic-task-app
-   \`\`\`
+   ```
 
 2. **Install dependencies**
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
    Or if you prefer yarn:
-   \`\`\`bash
+   ```bash
    yarn install
-   \`\`\`
+   ```
 
 ## Required Dependencies
 
 The application uses the following main dependencies:
 
-\`\`\`json
+```json
 {
   "@mui/material": "^5.15.0",
   "@mui/icons-material": "^5.15.0",
@@ -67,19 +70,19 @@ The application uses the following main dependencies:
   "react-redux": "^9.0.0",
   "react-router-dom": "^6.8.0"
 }
-\`\`\`
+```
 
 ## Running the Application
 
 1. **Start the development server**
-   \`\`\`bash
+   ```bash
    npm start
-   \`\`\`
+   ```
 
    Or with yarn:
-   \`\`\`bash
+   ```bash
    yarn start
-   \`\`\`
+   ```
 
 2. **Open your browser**
 
@@ -87,7 +90,7 @@ The application uses the following main dependencies:
 
 ## Project Structure
 
-\`\`\`
+```
 src/
 ├── Components/
 │   ├── Navbar.jsx          # Navigation bar component
@@ -104,7 +107,7 @@ src/
 ├── Store/
 │   └── store.js           # Redux store configuration
 └── App.jsx                # Main application component
-\`\`\`
+```
 
 ## Usage
 
@@ -142,13 +145,6 @@ src/
 
 ## Customization
 
-### Changing Colors
-
-To modify the color scheme, update the gradient values in the component styles:
-
-\`\`\`jsx
-background: 'linear-gradient(135deg, #1976d2 0%, #42a5f5 100%)'
-\`\`\`
 
 ### Adding New Features
 
