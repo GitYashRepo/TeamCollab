@@ -1,5 +1,5 @@
 # Team Collab App:-
-<img src="teamcollab.png" alt="Alt text" width="400"/>
+![Preview](/public/teamcollab.png)
 
 # Futuristic Task Management App Hosted Link:-
 - Frontend link :- https://team-collab-sable.vercel.app
