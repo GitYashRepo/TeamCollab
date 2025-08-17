@@ -4,7 +4,7 @@ const BASE_URL = import.meta.env.VITE_API_BASE_URL;
 const LOCAL_URL = 'http://localhost:4040';
 
 const api = axios.create({
-  baseURL: BASE_URL,
+  baseURL: LOCAL_URL,
 })
 
 api.interceptors.request.use((config) => {
