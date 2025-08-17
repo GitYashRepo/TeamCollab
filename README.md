@@ -1,3 +1,7 @@
+# Futuristic Task Management App Hosted Link:-
+- Frontend link :-  https://team-collab-sable.vercel.app
+
+
 # Futuristic Task Management App
 
 A modern, aesthetic task management application built with React and Material-UI, featuring a futuristic glass morphism design with gradient effects and smooth animations.
