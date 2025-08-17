@@ -1,5 +1,6 @@
 # Futuristic Task Management App Hosted Link:-
-- Frontend link :-  https://team-collab-sable.vercel.app
+- Frontend link :- https://team-collab-sable.vercel.app
+- Video Link :- https://drive.google.com/file/d/1Aaw0WnmLb-5K1MCv2tNWzgBokkGHcSQO/view?usp=sharing
 
 
 # Futuristic Task Management App
