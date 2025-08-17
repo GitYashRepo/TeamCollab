@@ -40,8 +40,8 @@ export default function TaskDetailsPage() {
     }, [task])
 
     const onSave = () => {
-        dispatch(updateTask({ id, updates: edit }))
-    }
+        dispatch(updateTask({ id, updates: { ...edit, assignedTo: edit.assignedTo } }))
+      }
 
     const commentsState = byTask[id] || { items: [], status: 'idle', error: null }
     const [text, setText] = useState('')
